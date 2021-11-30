@@ -23,7 +23,6 @@ public class Employee extends User {
 	
 	public void showInfo() {
 		System.out.println("#아이디: "+id+", #패스워드: "+password+", #이름: "+name+", #월급: "+salary);
-		System.out.println(name+"의 월급은 "+salary+"원 입니다.");
 	}
 	
 	
